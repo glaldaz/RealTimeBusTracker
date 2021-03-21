@@ -3,6 +3,9 @@
 ## Description
 A web app that pulls in the real time location of busses that run a rout in Boston from MIT to Harvard. The location of the busses is displayed on a map and updated every 15 seconds.
 
+### Things I Learned In This Project:
+- Working with an API
+
 ## How To Run
 Create an account with https://www.mapbox.com/ to obtain an access token key. Insert the Mapbox access token in the busTracker.js file as show bellow:
 
