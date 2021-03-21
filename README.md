@@ -16,7 +16,7 @@ const mapboxgl.accessToken = 'YOUR ACCCESS TOKEN HERE'
 - Place markers for MIT and Harvard
 
 ## License information
-Copyright (c) 2021 Guillerm Aldaz
+Copyright (c) 2021 Guillermo Aldaz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
